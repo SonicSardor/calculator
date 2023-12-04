@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701678248 source:g:\pdp lessons\calculator\main.cpp
+	<iostream>
+	<math.h>
+
